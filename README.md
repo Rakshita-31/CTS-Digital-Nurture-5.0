@@ -1,6 +1,6 @@
-# CTS Digital Nurture 4.0 — Upskilling Exercises
+# CTS Digital Nurture 5.0 — Upskilling Exercises
 
-> Submitted as part of the **Cognizant Digital Nurture 4.0** Java Full Stack Engineer program.  
+> Submitted as part of the **Cognizant Digital Nurture 5.0** Java Full Stack Engineer program.  
 > All exercises are based on the theme: **Local Community Event Portal** 🎪
 
 ---
