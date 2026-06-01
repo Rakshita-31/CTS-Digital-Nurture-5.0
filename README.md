@@ -12,7 +12,7 @@
 | **Name** | Rakshita R |
 | **College** | Sri Manakula Vinayagar Engineering College, Puducherry |
 | **Branch** | B.Tech Information Technology (Final Year) |
-| **Program** | CTS Digital Nurture 4.0 — Java FSE Upskilling Track |
+| **Program** | CTS Digital Nurture 5.0 — Java FSE Upskilling Track |
 
 ---
 
@@ -176,7 +176,7 @@ All 41 programs covering:
 
 | Detail | Info |
 |---|---|
-| Program | CTS Digital Nurture 4.0 |
+| Program | CTS Digital Nurture 5.0 |
 | Track | Java Full Stack Engineer |
 | Submission Type | GitHub Public Repository |
 
